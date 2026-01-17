@@ -1,5 +1,8 @@
 <html>
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=marcyie&color=616EC9&label=ଳ"</img>
+</p>
+<p align="center">
 <img src="https://files.catbox.moe/jayuen.png"</img>
 </p>
 <p align="center">
